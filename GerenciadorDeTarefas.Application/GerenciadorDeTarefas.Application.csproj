@@ -10,4 +10,8 @@
     <ProjectReference Include="..\GerenciadorDeTarefas.Communication\GerenciadorDeTarefas.Communication.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UseCases\Tasks\" />
+  </ItemGroup>
+
 </Project>
